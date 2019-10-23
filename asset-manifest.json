@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IngredientHandler-ReactHooks/static/css/main.5c3ba4df.chunk.css",
+    "main.js": "/IngredientHandler-ReactHooks/static/js/main.f1cb0986.chunk.js",
+    "main.js.map": "/IngredientHandler-ReactHooks/static/js/main.f1cb0986.chunk.js.map",
+    "runtime~main.js": "/IngredientHandler-ReactHooks/static/js/runtime~main.a29dfd57.js",
+    "runtime~main.js.map": "/IngredientHandler-ReactHooks/static/js/runtime~main.a29dfd57.js.map",
+    "static/js/2.fd64e6a3.chunk.js": "/IngredientHandler-ReactHooks/static/js/2.fd64e6a3.chunk.js",
+    "static/js/2.fd64e6a3.chunk.js.map": "/IngredientHandler-ReactHooks/static/js/2.fd64e6a3.chunk.js.map",
+    "index.html": "/IngredientHandler-ReactHooks/index.html",
+    "precache-manifest.f42aa39e1ee5c09eb8fdf36ab3be3e4b.js": "/IngredientHandler-ReactHooks/precache-manifest.f42aa39e1ee5c09eb8fdf36ab3be3e4b.js",
+    "service-worker.js": "/IngredientHandler-ReactHooks/service-worker.js",
+    "static/css/main.5c3ba4df.chunk.css.map": "/IngredientHandler-ReactHooks/static/css/main.5c3ba4df.chunk.css.map"
+  }
+}
